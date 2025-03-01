@@ -4,7 +4,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cesardelgadorodriguez)
 [![Blog](https://img.shields.io/badge/Blog-Visit-orange?style=flat-square&logo=blogger)](https://blog.chebetos.web.ve)
-[![Email](https://img.shields.io/badge/Email-Contact-green?style=flat-square&logo=gmail)](mailto:chebetos@gmail.com)
+<a href="https://www.buymeacoffee.com/chebetos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="20" width="87"></a>
+
 
 ## About Me
 
@@ -47,7 +48,7 @@ I'm passionate about helping developers maximize their potential and profits thr
 - Led critical data recovery operations and system enhancement projects that resulted in 95% reduction in synchronization failures
 - Designed and implemented both immediate and long-term solutions for complex technical challenges while maintaining effective stakeholder management
 - Spearheaded platform migration projects with minimal disruptions, earning recognition as a top performer
-- Championed knowledge sharing through initiatives like "World Tech News" channel, lunch-and-learn sessions, and technical documentation
+- Championed knowledge sharing through initiatives like Tech News channel, learning talks, and technical documentation
 - Recognized for technical excellence, leadership, and mentorship by peers and management
 
 ## Values & Approach
@@ -79,5 +80,5 @@ I'm currently expanding my knowledge in:
 
 ## Let's Connect
 
-I'm always interested in connecting with other professionals to share ideas and explore collaboration opportunities. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/cesardelgadorodriguez) or email me at chebetos@gmail.com.
+I'm always interested in connecting with other professionals to share ideas and explore collaboration opportunities. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/cesardelgadorodriguez).
 
