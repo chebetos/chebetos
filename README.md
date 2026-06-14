@@ -1,6 +1,6 @@
-# Cesar Augusto Delgado Rodriguez
+ # Cesar Augusto Delgado Rodriguez
 
-## Senior Software Engineer | Full Stack Developer
+## Principal Software Engineer | Software Architect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cesardelgadorodriguez)
 [![Blog](https://img.shields.io/badge/Blog-Visit-orange?style=flat-square&logo=blogger)](https://blog.chebetos.web.ve)
@@ -9,9 +9,9 @@
 
 ## About Me
 
-Experienced Software Engineer with 22+ years specializing in Software Architecture, Object-Oriented Analysis and Design, and full-stack development. I bring a strong focus on developing reliable, scalable solutions that help businesses succeed. I thrive in collaborative environments where I can apply Agile methodologies, test-driven development, and continuous integration practices to deliver high-quality software.
+Principal Software Engineer with 25+ years of experience architecting, building, and scaling distributed backend systems processing billions of transactions. I drive architectural decisions across distributed systems, lead cross-team engineering standards, and own end-to-end delivery of complex platform integrations — from schema design to production deployment.
 
-I'm passionate about helping developers maximize their potential and profits through efficient software solutions. My approach combines technical expertise with a deep understanding of business needs to create systems that deliver measurable value.
+I lead at the intersection of execution and direction: representing engineering in cross-organizational initiatives spanning platform reliability, security hardening, and operator onboarding, while championing AI-assisted engineering tooling adoption. My approach combines deep technical expertise with a clear focus on business outcomes and measurable impact.
 
 ## Technical Expertise
 
@@ -22,7 +22,7 @@ I'm passionate about helping developers maximize their potential and profits thr
 
 ### Frontend Development
 - **Languages**: JavaScript, TypeScript, HTML5, CSS3
-- **Frameworks/Libraries**: React, jQuery, Bootstrap
+- **Frameworks/Libraries**: React, Angular, jQuery
 
 ### Database & Data Systems
 - **SQL**: PostgreSQL, MySQL, Oracle, SQL Server, DB2
@@ -31,9 +31,12 @@ I'm passionate about helping developers maximize their potential and profits thr
 
 ### DevOps & Infrastructure
 - **Containerization**: Docker, Kubernetes
-- **CI/CD**: Jenkins, GitLab CI
-- **Cloud**: AWS
-- **OS**: Linux (Ubuntu, CentOS, SUSE), Windows
+- **CI/CD**: GitLab CI/CD, Jenkins
+- **GitOps / Deployment**: Helm, ArgoCD
+- **Infrastructure-as-Code**: Terraform
+- **Cloud**: AWS, GCP
+- **Observability**: Grafana, Prometheus
+- **OS**: Linux (Ubuntu, CentOS, SUSE)
 
 ### Software Development Practices
 - Agile methodologies (Scrum, Kanban, XP)
@@ -45,11 +48,12 @@ I'm passionate about helping developers maximize their potential and profits thr
 
 ## Professional Experience Highlights
 
-- Led critical data recovery operations and system enhancement projects that resulted in 95% reduction in synchronization failures
-- Designed and implemented both immediate and long-term solutions for complex technical challenges while maintaining effective stakeholder management
-- Spearheaded platform migration projects with minimal disruptions, earning recognition as a top performer
-- Championed knowledge sharing through initiatives like Tech News channel, learning talks, and technical documentation
-- Recognized for technical excellence, leadership, and mentorship by peers and management
+- Led decommission of a legacy gaming platform — coordinating across engineering, operations, and IT to eliminate all production environments with zero downtime and full game catalogue preserved on cloud-native infrastructure
+- Designed and implemented a Cassandra-backed persistence layer for a new operator integration end-to-end: data modelling, schema design, feature-flag rollout, and production deployment — zero incidents post-launch
+- Stepped in as acting technical architect during a major infrastructure migration, leading a multiphase cutover (DNS, wallet systems, gameplay databases, security whitelisting) with zero planned downtime and zero data loss
+- Resolved a critical data synchronization failure affecting ~50% of game rounds over three months — designed a semi-automated recovery tool across NoSQL and relational databases, achieving 95% reduction in sync failures
+- Built reusable Grafana observability dashboards for Kubernetes resource utilization across cloud environments, enabling continuous right-sizing without manual intervention
+- Established platform knowledge base framework (80+ wiki pages covering architecture, SOPs, incident response, and onboarding) — now the primary reference for cross-team knowledge transfer
 
 ## Values & Approach
 
@@ -73,10 +77,10 @@ As a former Scout, I apply these principles from the Scout Law in my professiona
 ## What I'm Learning
 
 I'm currently expanding my knowledge in:
-- Cloud infrastructure and architecture optimization
-- Advanced Kubernetes orchestration
-- Data engineering techniques for large-scale systems
-- Modern frontend frameworks and performance optimization
+- AI-assisted engineering: Claude Code, agent workflows, and multi-agent orchestration
+- Advanced distributed systems patterns and consensus algorithms
+- Platform engineering and internal developer platforms (IDP)
+- Cloud cost optimization and FinOps practices
 
 ## Let's Connect
 
